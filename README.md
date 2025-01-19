@@ -30,4 +30,4 @@ The deliverables include a professional PDF report, up to 1000 words, with infor
 
 - **data.csv** - The dataset used in this project
 
-- **data.legend.csv** - A csv file to define column in data.csv
+- **data_dict.csv** - A csv file to define column in data.csv
